@@ -1,0 +1,23 @@
+{
+  "name": "learn-hardhat",
+  "version": "1.0.0",
+  "description": "Using hardhat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Git-Vdim-Hub/learn-hardhat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Git-Vdim-Hub/learn-hardhat/issues"
+  },
+  "homepage": "https://github.com/Git-Vdim-Hub/learn-hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.16.1"
+  }
+}
